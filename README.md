@@ -31,4 +31,4 @@ A heartfelt thank you to my teammates Mostafa Tarek, Youssef Hammam, Ahmed Sobhy
 
 ## Portfolio
 
-Check out our Behance portfolio: [Task Together on Behance](https://www.behance.net/portfolio/editor?tracking_source=upload)
+Check out our Behance portfolio: [Task Together on Behance]([https://www.behance.net/portfolio/editor?tracking_source=upload](https://www.linkedin.com/feed/update/urn:li:activity:7222309620948582400/))
